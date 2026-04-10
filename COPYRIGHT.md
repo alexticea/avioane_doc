@@ -19,4 +19,4 @@ All third-party trademarks and logos are the property of their respective owners
 ## Legal Compliance
 This software is provided "as is" without warranty of any kind. The application complies with the Solana dApp Store Publisher Policy and adheres to standard digital distribution legal requirements.
 
-For inquiries regarding licensing or copyright, please contact: [Your Contact Email/Website]
+For inquiries regarding licensing or copyright, please contact: alexandru.ticea@izo.ro
